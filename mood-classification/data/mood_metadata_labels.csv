@@ -1,0 +1,800 @@
+,track_id,mp3_path,duration,tags,ambiental,ballad,calm,christmas,cool,dark,deep,dream,emotional,energetic,fun,groovy,happy,holiday,hopeful,inspiring,love,meditative,melancholic,mellow,melodic,motivational,party,positive,powerful,relaxing,retro,romantic,sad,slow,soft,sport,summer,upbeat,uplifting
+0,track_0012100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/12100.mp3,198.3,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,track_0012101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/12101.mp3,237.4,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,track_0012102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/12102.mp3,202.5,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,track_0012303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/12303.mp3,331.9,['retro'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+4,track_0013400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/13400.mp3,204.9,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,track_0016000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/16000.mp3,162.7,"['powerful', 'upbeat']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+6,track_0019202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/19202.mp3,310.9,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,track_0019203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/19203.mp3,254.8,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,track_0021502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/21502.mp3,105.9,"['fun', 'positive']",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+9,track_0022101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/22101.mp3,187.1,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,track_0026403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/26403.mp3,176.5,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,track_0026404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/26404.mp3,171.4,"['emotional', 'romantic']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+12,track_0047400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/47400.mp3,268.1,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,track_0047401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/47401.mp3,296.0,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,track_0047402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/47402.mp3,124.5,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,track_0047403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/47403.mp3,87.9,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,track_0047404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/47404.mp3,62.5,"['dream', 'melancholic']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,track_0049100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/49100.mp3,276.0,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,track_0078304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/78304.mp3,228.5,"['emotional', 'melodic']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,track_0080500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/80500.mp3,129.3,['mellow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,track_0080501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/80501.mp3,193.6,['mellow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,track_0080502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/80502.mp3,129.0,['mellow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,track_0080503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/80503.mp3,153.1,['mellow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,track_0080504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/80504.mp3,111.9,['mellow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,track_0086200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/86200.mp3,122.8,['calm'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,track_0095400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/95400.mp3,97.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,track_0114200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/114200.mp3,244.8,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,track_0114201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/114201.mp3,291.4,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,track_0116600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/116600.mp3,703.8,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,track_0117800,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/117800.mp3,259.0,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,track_0128300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/128300.mp3,90.1,"['calm', 'dream', 'emotional']",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,track_0128301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/128301.mp3,130.5,"['calm', 'emotional']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,track_0133600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/133600.mp3,165.0,"['energetic', 'sport']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+33,track_0141800,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/141800.mp3,461.4,['deep'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,track_0146600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/146600.mp3,240.4,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,track_0146602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/146602.mp3,218.0,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,track_0147504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/147504.mp3,321.9,['retro'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+37,track_0153400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/153400.mp3,290.7,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,track_0155502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/155502.mp3,212.0,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,track_0155503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/155503.mp3,210.9,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,track_0155504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/155504.mp3,329.3,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,track_0166604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/166604.mp3,183.3,"['ballad', 'sad']",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+42,track_0168800,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/168800.mp3,278.0,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,track_0168801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/168801.mp3,370.7,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,track_0168802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/168802.mp3,136.2,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,track_0168803,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/168803.mp3,376.0,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,track_0207501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/207501.mp3,208.8,"['emotional', 'energetic']",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,track_0209102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/209102.mp3,227.3,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,track_0230903,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/230903.mp3,223.2,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,track_0236401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/236401.mp3,220.0,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,track_0238201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/238201.mp3,122.0,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+51,track_0238202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/238202.mp3,100.6,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+52,track_0238203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/238203.mp3,96.2,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+53,track_0238204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/238204.mp3,163.2,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+54,track_0245501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/245501.mp3,189.4,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,track_0250100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/250100.mp3,1267.0,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,track_0251100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/251100.mp3,817.7,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,track_0264302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/264302.mp3,537.6,"['deep', 'sad']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+58,track_0277804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/277804.mp3,227.4,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,track_0292501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/292501.mp3,171.1,"['inspiring', 'powerful', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+60,track_0316203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/316203.mp3,204.1,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,track_0316204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/316204.mp3,176.0,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,track_0345903,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/345903.mp3,270.3,['cool'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,track_0347604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/347604.mp3,262.6,"['emotional', 'soft']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64,track_0348704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/348704.mp3,286.6,['party'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+65,track_0361002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/361002.mp3,230.7,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,track_0361003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/361003.mp3,332.8,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,track_0373302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/373302.mp3,273.1,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,track_0387400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/387400.mp3,168.2,"['dark', 'inspiring', 'relaxing']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+69,track_0387401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/387401.mp3,129.8,"['emotional', 'melancholic']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,track_0387403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/387403.mp3,276.2,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,track_0387501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/387501.mp3,218.0,"['dream', 'love', 'melancholic', 'romantic']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+72,track_0390000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/390000.mp3,159.5,"['happy', 'hopeful', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+73,track_0390001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/390001.mp3,177.6,"['hopeful', 'inspiring']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,track_0390002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/390002.mp3,153.6,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,track_0390003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/390003.mp3,136.9,['hopeful'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,track_0390004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/390004.mp3,193.8,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+77,track_0399200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/399200.mp3,273.1,"['happy', 'inspiring', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+78,track_0399201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/399201.mp3,206.5,"['mellow', 'relaxing', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+79,track_0399202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/399202.mp3,220.6,"['mellow', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+80,track_0399203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/399203.mp3,248.1,['positive'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+81,track_0399204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/399204.mp3,264.9,"['happy', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+82,track_0432804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/432804.mp3,198.9,['sport'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+83,track_0468500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/468500.mp3,237.2,"['christmas', 'holiday']",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,track_0476802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/476802.mp3,188.7,"['emotional', 'inspiring', 'love', 'melancholic', 'soft']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+85,track_0501200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/501200.mp3,208.0,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,track_0501300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/501300.mp3,103.9,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+87,track_0530904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/530904.mp3,325.9,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,track_0579303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/579303.mp3,220.0,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,track_0579304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/579304.mp3,162.8,"['calm', 'happy']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,track_0587000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/587000.mp3,203.3,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+91,track_0588700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/588700.mp3,228.6,"['relaxing', 'soft']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+92,track_0588701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/588701.mp3,228.6,"['christmas', 'melodic', 'relaxing', 'upbeat']",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+93,track_0588703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/588703.mp3,143.8,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,track_0588704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/588704.mp3,174.2,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+95,track_0604700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/604700.mp3,221.8,"['emotional', 'romantic', 'soft']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+96,track_0604701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/604701.mp3,174.7,"['emotional', 'romantic', 'soft']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+97,track_0606902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/606902.mp3,378.7,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+98,track_0606904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/606904.mp3,288.1,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+99,track_0614901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/614901.mp3,226.0,"['dream', 'relaxing']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+100,track_0614902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/614902.mp3,359.6,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,track_0629103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/629103.mp3,371.9,['uplifting'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+102,track_0633200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/633200.mp3,356.2,"['dream', 'love', 'sad']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+103,track_0633201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/633201.mp3,388.6,"['dream', 'love']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,track_0635300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/635300.mp3,156.5,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,track_0635301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/635301.mp3,120.9,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,track_0646803,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/646803.mp3,109.7,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+107,track_0646804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/646804.mp3,144.9,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+108,track_0659900,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/659900.mp3,147.5,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,track_0659901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/659901.mp3,183.5,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,track_0659902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/659902.mp3,215.5,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,track_0659903,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/659903.mp3,179.5,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,track_0659904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/659904.mp3,172.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,track_0661601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/661601.mp3,219.9,['groovy'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,track_0661602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/661602.mp3,175.3,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,track_0661603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/661603.mp3,182.5,"['groovy', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+116,track_0661604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/661604.mp3,205.0,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,track_0677104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/677104.mp3,477.2,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,track_0682504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/682504.mp3,446.0,"['dark', 'dream']",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,track_0682600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/682600.mp3,222.0,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,track_0683802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/683802.mp3,216.3,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,track_0683804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/683804.mp3,211.1,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,track_0697303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/697303.mp3,64.0,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123,track_0702500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/702500.mp3,115.5,['melancholic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,track_0702502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/702502.mp3,105.0,"['love', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+125,track_0702503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/702503.mp3,151.8,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,track_0708401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/708401.mp3,181.9,"['meditative', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+127,track_0718300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/718300.mp3,209.3,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,track_0718301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/718301.mp3,152.5,"['melancholic', 'retro']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+129,track_0718304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/718304.mp3,213.6,['cool'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,track_0727904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/727904.mp3,134.8,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+131,track_0757500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/757500.mp3,107.0,"['dream', 'love', 'melodic']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,track_0784902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/784902.mp3,202.3,['sport'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+133,track_0810100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/810100.mp3,313.9,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+134,track_0816200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/816200.mp3,182.4,"['emotional', 'love', 'soft']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+135,track_0816201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/816201.mp3,138.5,"['dream', 'emotional', 'love']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,track_0816202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/816202.mp3,200.9,"['emotional', 'love', 'soft']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+137,track_0818600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/818600.mp3,76.9,['powerful'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+138,track_0824300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/824300.mp3,162.3,"['dark', 'deep']",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,track_0824301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/824301.mp3,206.7,['powerful'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+140,track_0824302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/824302.mp3,183.7,"['hopeful', 'powerful']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+141,track_0824303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/824303.mp3,175.7,['powerful'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+142,track_0840600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/840600.mp3,184.1,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,track_0842401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/842401.mp3,266.6,"['powerful', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+144,track_0842402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/842402.mp3,270.6,"['powerful', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+145,track_0842403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/842403.mp3,231.6,"['powerful', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+146,track_0843404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/843404.mp3,233.7,"['emotional', 'soft']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+147,track_0847200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/847200.mp3,65.4,"['meditative', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+148,track_0865201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/865201.mp3,211.7,['melancholic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,track_0872000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/872000.mp3,395.2,['uplifting'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+150,track_0872001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/872001.mp3,307.4,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,track_0872003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/872003.mp3,294.3,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,track_0873804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/873804.mp3,224.0,['slow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+153,track_0880702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/880702.mp3,703.9,['christmas'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,track_0887202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/887202.mp3,193.0,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,track_0887203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/887203.mp3,338.9,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,track_0887204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/887204.mp3,211.3,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,track_0890103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/890103.mp3,151.0,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,track_0892004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/892004.mp3,161.5,['groovy'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,track_0893400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/893400.mp3,54.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,track_0893401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/893401.mp3,42.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,track_0893402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/893402.mp3,70.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,track_0893403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/893403.mp3,40.0,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,track_0893404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/893404.mp3,39.1,['christmas'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,track_0896604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/896604.mp3,247.7,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,track_0902704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/902704.mp3,268.6,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,track_0903600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/903600.mp3,155.6,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+167,track_0903601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/903601.mp3,157.9,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+168,track_0903602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/903602.mp3,131.7,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+169,track_0903603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/903603.mp3,235.4,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+170,track_0903604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/903604.mp3,141.7,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+171,track_0912701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/912701.mp3,293.3,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,track_0913700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/913700.mp3,269.3,['retro'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+173,track_0913701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/913701.mp3,298.0,['retro'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+174,track_0913702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/913702.mp3,318.0,['retro'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+175,track_0920000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/920000.mp3,202.2,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,track_0920001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/920001.mp3,234.1,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,track_0926201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/926201.mp3,198.1,"['ballad', 'slow']",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+178,track_0926202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/926202.mp3,134.0,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,track_0926203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/926203.mp3,238.7,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,track_0933502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/933502.mp3,259.1,"['love', 'meditative']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,track_0937102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/937102.mp3,1112.6,"['dream', 'melancholic']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,track_0939804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/939804.mp3,99.9,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,track_0945200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/945200.mp3,183.6,"['happy', 'summer']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+184,track_0945201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/945201.mp3,196.6,"['happy', 'summer']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+185,track_0945202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/945202.mp3,145.3,"['happy', 'summer']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+186,track_0945203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/945203.mp3,272.5,"['happy', 'summer']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+187,track_0945204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/945204.mp3,192.9,"['happy', 'summer']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+188,track_0950100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/950100.mp3,295.5,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,track_0950101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/950101.mp3,251.6,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,track_0950102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/950102.mp3,256.4,"['energetic', 'melodic']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,track_0950103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/950103.mp3,278.0,"['energetic', 'melodic']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,track_0950104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/950104.mp3,308.9,"['energetic', 'melodic']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,track_0950302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/950302.mp3,150.9,['slow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+194,track_0952001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/952001.mp3,168.6,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,track_0956102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/956102.mp3,324.0,['soft'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+196,track_0956103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/956103.mp3,240.2,['soft'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+197,track_0963401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/963401.mp3,205.7,"['emotional', 'love']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,track_0965303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/965303.mp3,199.3,['christmas'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,track_0965304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/965304.mp3,97.3,['christmas'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,track_0966300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/966300.mp3,49.4,['slow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+201,track_0966301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/966301.mp3,98.6,['slow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+202,track_0966302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/966302.mp3,113.3,['slow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+203,track_0969703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/969703.mp3,186.2,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,track_0970600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/970600.mp3,199.8,"['meditative', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+205,track_0970601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/970601.mp3,221.4,"['meditative', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+206,track_0974304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/974304.mp3,64.7,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,track_0975402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/975402.mp3,198.2,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,track_0979204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/979204.mp3,210.1,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+209,track_0985000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/985000.mp3,256.1,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,track_0988503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/988503.mp3,75.2,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,track_0988504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/988504.mp3,232.9,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,track_0998102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/998102.mp3,205.0,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,track_1009600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1009600.mp3,93.7,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+214,track_1009601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1009601.mp3,33.5,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,track_1009701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1009701.mp3,196.9,['retro'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+216,track_1012000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1012000.mp3,147.0,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,track_1012001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1012001.mp3,209.6,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,track_1012002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1012002.mp3,121.4,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,track_1012003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1012003.mp3,206.0,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,track_1012004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1012004.mp3,101.2,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,track_1014400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1014400.mp3,163.8,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+222,track_1018801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1018801.mp3,212.1,['hopeful'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,track_1028503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1028503.mp3,741.2,"['meditative', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+224,track_1028504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1028504.mp3,477.1,"['meditative', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+225,track_1028900,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1028900.mp3,152.0,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+226,track_1028901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1028901.mp3,131.6,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+227,track_1028902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1028902.mp3,239.3,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+228,track_1028903,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1028903.mp3,124.5,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+229,track_1028904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1028904.mp3,164.3,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+230,track_1029002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1029002.mp3,251.1,['powerful'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+231,track_1030101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1030101.mp3,166.3,"['deep', 'melodic']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,track_1030102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1030102.mp3,358.0,"['deep', 'melodic']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,track_1032700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1032700.mp3,245.5,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,track_1032701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1032701.mp3,177.7,"['fun', 'uplifting']",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+235,track_1032802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1032802.mp3,198.5,['cool'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,track_1036003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1036003.mp3,202.0,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+237,track_1036802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1036802.mp3,261.8,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,track_1037900,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1037900.mp3,174.0,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,track_1037901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1037901.mp3,200.0,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,track_1041104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1041104.mp3,158.7,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,track_1041500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1041500.mp3,232.1,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,track_1048302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1048302.mp3,215.9,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,track_1048303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1048303.mp3,292.0,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,track_1048304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1048304.mp3,224.0,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,track_1049702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1049702.mp3,224.0,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,track_1049703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1049703.mp3,247.3,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,track_1049704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1049704.mp3,280.9,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,track_1051204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1051204.mp3,263.1,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,track_1052800,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1052800.mp3,137.4,['hopeful'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,track_1052801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1052801.mp3,234.0,['hopeful'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,track_1053502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1053502.mp3,254.5,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,track_1053503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1053503.mp3,369.0,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,track_1053504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1053504.mp3,328.5,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,track_1056400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1056400.mp3,30.0,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,track_1056402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1056402.mp3,253.2,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+256,track_1062500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1062500.mp3,225.5,"['calm', 'christmas', 'holiday', 'relaxing']",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+257,track_1062501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1062501.mp3,328.0,"['calm', 'christmas', 'holiday', 'relaxing']",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+258,track_1062502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1062502.mp3,211.3,"['calm', 'christmas', 'holiday', 'relaxing']",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+259,track_1062503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1062503.mp3,228.0,"['calm', 'christmas', 'holiday', 'relaxing']",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+260,track_1062504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1062504.mp3,230.0,"['calm', 'christmas', 'holiday', 'relaxing']",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+261,track_1062600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1062600.mp3,183.8,['motivational'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,track_1066200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1066200.mp3,324.3,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+263,track_1066202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1066202.mp3,407.6,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+264,track_1066204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1066204.mp3,280.6,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+265,track_1066302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1066302.mp3,359.0,"['energetic', 'love', 'retro']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+266,track_1066500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1066500.mp3,160.2,"['happy', 'positive', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+267,track_1066503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1066503.mp3,164.1,"['happy', 'positive', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+268,track_1066801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1066801.mp3,217.4,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,track_1066803,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1066803.mp3,238.4,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,track_1066804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1066804.mp3,251.3,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,track_1069400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1069400.mp3,357.4,"['hopeful', 'melodic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,track_1070602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1070602.mp3,92.0,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,track_1070604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1070604.mp3,193.8,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,track_1070701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1070701.mp3,169.0,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,track_1072902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1072902.mp3,336.9,['party'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+276,track_1072903,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1072903.mp3,244.3,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,track_1072904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1072904.mp3,229.0,['party'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+278,track_1075402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1075402.mp3,222.4,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+279,track_1075802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1075802.mp3,392.3,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,track_1079400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1079400.mp3,192.0,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,track_1081000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1081000.mp3,382.5,"['happy', 'love']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,track_1081002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1081002.mp3,300.0,"['happy', 'love']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+283,track_1081003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1081003.mp3,560.5,"['happy', 'love']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,track_1081004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1081004.mp3,249.1,"['happy', 'love']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,track_1081703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1081703.mp3,250.9,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+286,track_1081704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1081704.mp3,339.7,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+287,track_1081801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1081801.mp3,137.2,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,track_1082100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1082100.mp3,118.3,"['love', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+289,track_1083302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1083302.mp3,165.5,"['energetic', 'happy', 'uplifting']",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+290,track_1083303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1083303.mp3,155.0,"['energetic', 'happy', 'uplifting']",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+291,track_1086300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1086300.mp3,58.5,['soft'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+292,track_1087100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1087100.mp3,126.6,"['happy', 'inspiring', 'motivational', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+293,track_1087101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1087101.mp3,151.8,"['happy', 'inspiring', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+294,track_1087102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1087102.mp3,126.6,"['happy', 'inspiring', 'motivational', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+295,track_1087103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1087103.mp3,93.9,"['happy', 'inspiring', 'motivational', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+296,track_1087104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1087104.mp3,132.6,"['happy', 'inspiring', 'motivational', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+297,track_1088000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1088000.mp3,165.5,['sport'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+298,track_1088002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1088002.mp3,92.8,"['romantic', 'sad']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+299,track_1088603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1088603.mp3,30.6,"['fun', 'happy']",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,track_1089300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1089300.mp3,203.7,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,track_1089301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1089301.mp3,578.7,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,track_1089302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1089302.mp3,793.4,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,track_1089303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1089303.mp3,756.2,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+304,track_1090700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1090700.mp3,197.7,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,track_1090701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1090701.mp3,175.9,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,track_1095102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1095102.mp3,390.3,"['hopeful', 'motivational', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+307,track_1095103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1095103.mp3,266.8,['motivational'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+308,track_1095104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1095104.mp3,193.9,['motivational'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,track_1096800,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1096800.mp3,275.0,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+310,track_1098504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1098504.mp3,254.0,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+311,track_1101300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1101300.mp3,198.8,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,track_1102300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1102300.mp3,291.6,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313,track_1105300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1105300.mp3,256.0,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314,track_1105603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1105603.mp3,90.5,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+315,track_1108302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1108302.mp3,237.9,"['energetic', 'happy', 'positive']",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+316,track_1110000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1110000.mp3,89.1,"['fun', 'happy']",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+317,track_1110001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1110001.mp3,70.6,"['fun', 'happy']",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+318,track_1110002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1110002.mp3,38.5,"['fun', 'happy']",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+319,track_1110004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1110004.mp3,89.1,"['fun', 'happy']",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,track_1110302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1110302.mp3,147.8,"['love', 'slow']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+321,track_1110500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1110500.mp3,178.7,['uplifting'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+322,track_1110501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1110501.mp3,140.0,['uplifting'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+323,track_1110502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1110502.mp3,84.9,['uplifting'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+324,track_1110503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1110503.mp3,240.0,['uplifting'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+325,track_1110504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1110504.mp3,131.1,['uplifting'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+326,track_1110802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1110802.mp3,195.1,['party'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+327,track_1112000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1112000.mp3,88.8,"['happy', 'melodic']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,track_1112001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1112001.mp3,165.6,"['happy', 'melodic']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+329,track_1112002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1112002.mp3,96.0,"['happy', 'melodic']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+330,track_1112003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1112003.mp3,146.6,"['happy', 'melodic']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,track_1112004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1112004.mp3,121.4,"['happy', 'melodic']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+332,track_1115604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1115604.mp3,92.6,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+333,track_1115700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1115700.mp3,266.7,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334,track_1115701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1115701.mp3,183.2,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,track_1115702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1115702.mp3,176.1,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,track_1115703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1115703.mp3,157.9,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,track_1115704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1115704.mp3,240.2,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,track_1116400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1116400.mp3,90.0,"['dream', 'relaxing', 'soft']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+339,track_1116401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1116401.mp3,90.0,"['dream', 'relaxing', 'soft']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+340,track_1116402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1116402.mp3,90.0,"['dream', 'relaxing', 'soft']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+341,track_1116403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1116403.mp3,90.0,"['dream', 'relaxing', 'soft']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+342,track_1116404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1116404.mp3,90.0,"['dream', 'relaxing', 'soft']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+343,track_1117701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1117701.mp3,234.0,['melancholic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,track_1117703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1117703.mp3,328.0,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+345,track_1119403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1119403.mp3,90.0,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+346,track_1119404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1119404.mp3,107.8,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,track_1121101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1121101.mp3,389.9,['groovy'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,track_1121102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1121102.mp3,293.3,['groovy'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,track_1121103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1121103.mp3,293.5,['groovy'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,track_1121104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1121104.mp3,326.3,['groovy'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,track_1121204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1121204.mp3,412.8,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+352,track_1121400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1121400.mp3,198.2,"['energetic', 'party']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+353,track_1121404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1121404.mp3,178.1,['hopeful'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,track_1121503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1121503.mp3,187.3,"['ballad', 'happy', 'hopeful', 'romantic']",0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+355,track_1121504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1121504.mp3,210.8,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+356,track_1122004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1122004.mp3,209.1,"['dream', 'relaxing', 'soft']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+357,track_1125001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1125001.mp3,88.0,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,track_1125100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1125100.mp3,215.2,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+359,track_1125104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1125104.mp3,367.1,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,track_1127402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1127402.mp3,253.2,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+361,track_1127403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1127403.mp3,209.4,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+362,track_1129800,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1129800.mp3,525.5,"['meditative', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+363,track_1129801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1129801.mp3,455.3,"['meditative', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+364,track_1132200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1132200.mp3,182.6,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,track_1132201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1132201.mp3,208.0,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,track_1132202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1132202.mp3,203.0,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,track_1132203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1132203.mp3,215.5,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,track_1132204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1132204.mp3,212.0,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,track_1133301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1133301.mp3,145.7,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+370,track_1135202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1135202.mp3,186.8,"['meditative', 'slow']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+371,track_1135704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1135704.mp3,267.4,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+372,track_1137403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1137403.mp3,204.0,"['melancholic', 'melodic', 'sad']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+373,track_1146201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1146201.mp3,515.2,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,track_1146202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1146202.mp3,537.8,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+375,track_1146203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1146203.mp3,755.9,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,track_1146204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1146204.mp3,742.4,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+377,track_1150101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1150101.mp3,254.0,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,track_1150102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1150102.mp3,1114.1,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+379,track_1150103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1150103.mp3,393.7,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,track_1150104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1150104.mp3,277.2,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+381,track_1150402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1150402.mp3,210.6,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,track_1150404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1150404.mp3,313.3,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,track_1151402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1151402.mp3,128.4,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+384,track_1151403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1151403.mp3,140.0,['soft'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+385,track_1151404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1151404.mp3,141.0,"['fun', 'happy']",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,track_1155000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1155000.mp3,222.0,['party'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+387,track_1155900,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1155900.mp3,135.9,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,track_1157302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1157302.mp3,149.7,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+389,track_1157603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1157603.mp3,160.1,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+390,track_1157701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1157701.mp3,245.0,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391,track_1158200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1158200.mp3,385.5,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,track_1158201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1158201.mp3,1086.9,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,track_1159703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1159703.mp3,230.7,"['ballad', 'melancholic', 'romantic']",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+394,track_1159704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1159704.mp3,259.6,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,track_1160600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1160600.mp3,242.4,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,track_1160601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1160601.mp3,300.7,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,track_1160602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1160602.mp3,319.9,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+398,track_1160603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1160603.mp3,264.3,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,track_1160604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1160604.mp3,391.9,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+400,track_1162101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1162101.mp3,223.3,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,track_1162102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1162102.mp3,112.2,['christmas'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,track_1162701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1162701.mp3,106.8,"['christmas', 'happy']",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,track_1162702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1162702.mp3,97.9,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,track_1163000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1163000.mp3,106.9,"['calm', 'soft']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+405,track_1163204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1163204.mp3,117.7,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,track_1163304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1163304.mp3,213.6,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+407,track_1163803,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1163803.mp3,45.1,['sport'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+408,track_1164200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1164200.mp3,96.0,"['energetic', 'fun', 'happy', 'retro']",0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+409,track_1164201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1164201.mp3,38.4,"['energetic', 'fun', 'happy', 'retro']",0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+410,track_1164202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1164202.mp3,80.0,"['energetic', 'fun', 'happy', 'retro']",0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+411,track_1164203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1164203.mp3,115.2,"['energetic', 'fun', 'happy', 'retro']",0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+412,track_1164204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1164204.mp3,80.0,"['energetic', 'fun', 'happy', 'retro']",0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+413,track_1165401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1165401.mp3,217.3,"['love', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+414,track_1165403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1165403.mp3,308.4,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,track_1166100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1166100.mp3,175.1,"['energetic', 'happy', 'upbeat']",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+416,track_1166101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1166101.mp3,243.5,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,track_1166102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1166102.mp3,141.0,"['melodic', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+418,track_1166103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1166103.mp3,215.0,"['dream', 'inspiring', 'love', 'soft']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+419,track_1166104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1166104.mp3,203.0,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+420,track_1167300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1167300.mp3,65.2,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,track_1167301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1167301.mp3,34.5,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,track_1167302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1167302.mp3,110.3,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+423,track_1167304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1167304.mp3,187.5,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+424,track_1168602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1168602.mp3,286.2,"['ballad', 'sad']",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+425,track_1170600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1170600.mp3,146.2,['melancholic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+426,track_1178100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1178100.mp3,195.6,"['dark', 'melancholic', 'melodic']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,track_1178101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1178101.mp3,200.0,"['inspiring', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+428,track_1178102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1178102.mp3,277.4,"['emotional', 'inspiring', 'uplifting']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+429,track_1178104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1178104.mp3,222.9,['christmas'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+430,track_1179402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1179402.mp3,148.4,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+431,track_1179603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1179603.mp3,163.0,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+432,track_1179604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1179604.mp3,158.0,['deep'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,track_1181203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1181203.mp3,226.7,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+434,track_1182601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1182601.mp3,450.7,['christmas'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,track_1189900,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1189900.mp3,165.8,"['cool', 'retro']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+436,track_1189901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1189901.mp3,277.2,"['hopeful', 'inspiring', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+437,track_1189902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1189902.mp3,124.2,"['cool', 'energetic', 'groovy']",0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+438,track_1189904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1189904.mp3,190.4,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,track_1190104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1190104.mp3,1766.0,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+440,track_1193401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1193401.mp3,636.3,"['dream', 'relaxing']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+441,track_1193402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1193402.mp3,561.6,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+442,track_1195900,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1195900.mp3,103.0,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+443,track_1195902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1195902.mp3,75.3,['positive'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+444,track_1195903,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1195903.mp3,110.5,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+445,track_1195904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1195904.mp3,81.8,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+446,track_1196203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1196203.mp3,148.8,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+447,track_1197103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1197103.mp3,128.4,"['happy', 'inspiring', 'motivational', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+448,track_1197104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1197104.mp3,132.5,"['happy', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+449,track_1202100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1202100.mp3,180.0,['calm'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,track_1202102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1202102.mp3,32.1,['soft'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+451,track_1202104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1202104.mp3,35.3,['soft'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+452,track_1203201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1203201.mp3,197.2,"['calm', 'dark', 'emotional', 'melancholic', 'sad']",0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+453,track_1203202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1203202.mp3,280.3,"['dark', 'emotional', 'melancholic', 'sad']",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+454,track_1203203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1203203.mp3,277.7,"['dark', 'dream']",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+455,track_1209202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1209202.mp3,205.1,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+456,track_1209204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1209204.mp3,182.8,"['love', 'soft']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+457,track_1209404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1209404.mp3,166.4,"['happy', 'motivational']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,track_1210603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1210603.mp3,168.0,"['dream', 'inspiring', 'meditative']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,track_1210700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1210700.mp3,160.1,"['cool', 'fun', 'groovy', 'happy', 'melodic', 'motivational']",0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+460,track_1210701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1210701.mp3,187.6,"['groovy', 'melodic']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+461,track_1210702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1210702.mp3,282.1,['uplifting'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+462,track_1211600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1211600.mp3,300.1,"['emotional', 'sad']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+463,track_1211601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1211601.mp3,202.1,"['happy', 'sad']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+464,track_1211603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1211603.mp3,170.1,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+465,track_1211604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1211604.mp3,199.2,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+466,track_1211800,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1211800.mp3,264.0,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+467,track_1211801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1211801.mp3,264.2,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+468,track_1211802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1211802.mp3,238.7,"['mellow', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+469,track_1211803,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1211803.mp3,238.6,"['mellow', 'motivational', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+470,track_1215804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1215804.mp3,190.0,['slow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+471,track_1219404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1219404.mp3,128.0,"['deep', 'dream']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+472,track_1219603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1219603.mp3,218.0,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+473,track_1219701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1219701.mp3,124.6,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,track_1219702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1219702.mp3,208.4,"['dark', 'melancholic']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+475,track_1222000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1222000.mp3,206.2,"['positive', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+476,track_1222001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1222001.mp3,171.2,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+477,track_1222501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1222501.mp3,223.0,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+478,track_1223300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1223300.mp3,52.2,"['happy', 'inspiring', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+479,track_1223702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1223702.mp3,384.0,['christmas'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+480,track_1225503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1225503.mp3,229.1,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+481,track_1226700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1226700.mp3,69.0,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+482,track_1226702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1226702.mp3,323.9,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,track_1226800,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1226800.mp3,106.9,"['fun', 'relaxing']",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+484,track_1226801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1226801.mp3,220.8,"['relaxing', 'soft']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+485,track_1227101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1227101.mp3,227.3,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+486,track_1227102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1227102.mp3,185.2,"['emotional', 'happy']",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,track_1227103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1227103.mp3,189.5,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+488,track_1227104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1227104.mp3,205.1,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+489,track_1228102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1228102.mp3,299.2,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+490,track_1231502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1231502.mp3,147.0,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+491,track_1231702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1231702.mp3,156.2,"['dream', 'happy', 'summer']",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+492,track_1234500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1234500.mp3,420.0,"['happy', 'party']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+493,track_1234501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1234501.mp3,510.5,['party'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+494,track_1234502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1234502.mp3,316.2,"['happy', 'love']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+495,track_1234503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1234503.mp3,331.2,"['love', 'party']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+496,track_1235601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1235601.mp3,83.2,"['ballad', 'romantic']",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+497,track_1235700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1235700.mp3,438.3,"['energetic', 'sad']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+498,track_1236401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1236401.mp3,193.6,"['happy', 'upbeat']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+499,track_1236402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1236402.mp3,225.3,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+500,track_1236403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1236403.mp3,152.5,"['calm', 'slow']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+501,track_1241404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1241404.mp3,270.8,['calm'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,track_1243203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1243203.mp3,193.9,['summer'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+503,track_1245901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1245901.mp3,223.0,['groovy'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,track_1247101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1247101.mp3,334.3,"['dark', 'slow']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+505,track_1247102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1247102.mp3,200.6,"['dark', 'slow']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+506,track_1247103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1247103.mp3,207.5,"['dark', 'slow']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+507,track_1247104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1247104.mp3,378.9,"['dark', 'slow']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+508,track_1248104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1248104.mp3,208.6,['party'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+509,track_1248600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1248600.mp3,225.7,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+510,track_1248601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1248601.mp3,185.2,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+511,track_1248602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1248602.mp3,136.6,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+512,track_1248603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1248603.mp3,157.3,"['energetic', 'happy']",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+513,track_1249602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1249602.mp3,190.2,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+514,track_1249603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1249603.mp3,218.3,"['emotional', 'slow']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+515,track_1250200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1250200.mp3,44.4,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+516,track_1257002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1257002.mp3,288.3,['upbeat'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+517,track_1257004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1257004.mp3,220.1,['upbeat'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+518,track_1261203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1261203.mp3,151.6,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+519,track_1263902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1263902.mp3,259.2,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+520,track_1264201,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1264201.mp3,110.0,"['deep', 'groovy']",0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+521,track_1265902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1265902.mp3,106.2,"['calm', 'relaxing']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+522,track_1266500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1266500.mp3,71.1,['motivational'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,track_1266502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1266502.mp3,67.0,"['fun', 'fun']",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+524,track_1268902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1268902.mp3,318.8,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+525,track_1270100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1270100.mp3,35.1,"['happy', 'inspiring', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+526,track_1271904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1271904.mp3,284.0,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+527,track_1274100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1274100.mp3,65.9,"['calm', 'soft']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+528,track_1274104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1274104.mp3,160.5,"['inspiring', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+529,track_1274502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1274502.mp3,284.9,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+530,track_1275302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1275302.mp3,442.7,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+531,track_1277700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1277700.mp3,91.4,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+532,track_1277701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1277701.mp3,76.1,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+533,track_1277702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1277702.mp3,72.5,"['dream', 'fun']",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+534,track_1277800,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1277800.mp3,207.6,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+535,track_1277802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1277802.mp3,46.9,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,track_1279600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1279600.mp3,70.0,['motivational'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+537,track_1279601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1279601.mp3,70.0,"['motivational', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+538,track_1279602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1279602.mp3,98.4,['motivational'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+539,track_1279603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1279603.mp3,118.4,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+540,track_1279604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1279604.mp3,73.3,"['happy', 'motivational']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+541,track_1280403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1280403.mp3,288.0,['party'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+542,track_1282300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1282300.mp3,156.6,"['happy', 'positive', 'upbeat']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+543,track_1287604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1287604.mp3,186.7,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+544,track_1288103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1288103.mp3,178.6,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+545,track_1288104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1288104.mp3,264.3,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+546,track_1288400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1288400.mp3,127.8,"['dark', 'energetic', 'powerful']",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+547,track_1288403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1288403.mp3,184.0,"['inspiring', 'powerful']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+548,track_1288500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1288500.mp3,171.3,['uplifting'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+549,track_1289104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1289104.mp3,199.7,"['dark', 'deep']",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+550,track_1293701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1293701.mp3,137.5,"['inspiring', 'relaxing', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+551,track_1294004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1294004.mp3,142.8,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+552,track_1294600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1294600.mp3,132.0,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+553,track_1294702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1294702.mp3,107.8,"['motivational', 'sport']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+554,track_1294803,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1294803.mp3,245.4,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+555,track_1295900,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1295900.mp3,354.1,"['melodic', 'powerful']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+556,track_1295901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1295901.mp3,159.5,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+557,track_1296703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1296703.mp3,240.0,['sport'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+558,track_1297801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1297801.mp3,705.9,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+559,track_1298301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1298301.mp3,186.8,"['love', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+560,track_1298302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1298302.mp3,238.7,"['love', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+561,track_1298304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1298304.mp3,227.2,"['ballad', 'love']",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+562,track_1299802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1299802.mp3,150.0,"['dream', 'love', 'sad']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+563,track_1299803,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1299803.mp3,150.0,"['sad', 'slow']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+564,track_1299804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1299804.mp3,150.0,"['love', 'slow']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+565,track_1299902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1299902.mp3,230.3,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+566,track_1300000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1300000.mp3,400.0,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+567,track_1300500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1300500.mp3,472.5,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+568,track_1302904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1302904.mp3,126.4,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+569,track_1303000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1303000.mp3,124.1,"['energetic', 'sport']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+570,track_1304003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1304003.mp3,114.1,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+571,track_1304400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1304400.mp3,491.1,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+572,track_1305603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1305603.mp3,442.2,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+573,track_1306202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1306202.mp3,192.9,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+574,track_1306203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1306203.mp3,204.0,"['emotional', 'hopeful']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+575,track_1306703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1306703.mp3,114.5,"['happy', 'inspiring']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+576,track_1306704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1306704.mp3,114.9,"['happy', 'inspiring']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+577,track_1311203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1311203.mp3,216.9,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+578,track_1312101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1312101.mp3,188.6,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+579,track_1312103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1312103.mp3,347.6,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,track_1313000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1313000.mp3,661.9,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+581,track_1314100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1314100.mp3,63.1,"['emotional', 'happy', 'inspiring', 'positive', 'romantic']",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+582,track_1314101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1314101.mp3,34.1,"['emotional', 'happy', 'inspiring', 'positive', 'romantic']",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+583,track_1314300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1314300.mp3,401.9,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+584,track_1314303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1314303.mp3,332.1,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+585,track_1315102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1315102.mp3,280.0,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+586,track_1315103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1315103.mp3,342.0,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+587,track_1317900,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1317900.mp3,222.9,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+588,track_1317901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1317901.mp3,165.4,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+589,track_1317902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1317902.mp3,123.9,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+590,track_1317904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1317904.mp3,178.8,"['fun', 'sport']",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+591,track_1318704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1318704.mp3,224.0,['motivational'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+592,track_1319500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1319500.mp3,141.2,['groovy'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+593,track_1319503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1319503.mp3,192.2,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+594,track_1319504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1319504.mp3,186.5,['slow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+595,track_1320000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1320000.mp3,138.8,"['dark', 'upbeat']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+596,track_1320001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1320001.mp3,140.8,"['dark', 'upbeat']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+597,track_1320002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1320002.mp3,147.0,"['dark', 'upbeat']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+598,track_1320003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1320003.mp3,71.7,"['dark', 'upbeat']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+599,track_1320004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1320004.mp3,158.2,"['dark', 'upbeat']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+600,track_1321603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1321603.mp3,128.7,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+601,track_1323600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1323600.mp3,183.0,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+602,track_1323603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1323603.mp3,193.0,['melodic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+603,track_1323804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1323804.mp3,285.1,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+604,track_1324900,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1324900.mp3,166.0,"['romantic', 'sad']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+605,track_1324901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1324901.mp3,198.5,"['romantic', 'sad']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+606,track_1324902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1324902.mp3,158.7,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+607,track_1324903,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1324903.mp3,191.6,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+608,track_1324904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1324904.mp3,189.2,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+609,track_1325602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1325602.mp3,228.9,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+610,track_1325603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1325603.mp3,228.9,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+611,track_1327700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1327700.mp3,528.1,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+612,track_1329502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1329502.mp3,182.0,"['dream', 'melodic', 'relaxing']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+613,track_1330501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1330501.mp3,260.9,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+614,track_1330503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1330503.mp3,306.0,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+615,track_1330504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1330504.mp3,34.1,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+616,track_1333600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1333600.mp3,215.8,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+617,track_1333601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1333601.mp3,212.6,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+618,track_1336202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1336202.mp3,228.2,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+619,track_1336203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1336203.mp3,188.2,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+620,track_1336204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1336204.mp3,196.9,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+621,track_1337503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1337503.mp3,224.9,"['melodic', 'sad']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+622,track_1337504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1337504.mp3,207.9,"['love', 'romantic', 'soft']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+623,track_1337800,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1337800.mp3,178.8,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+624,track_1337801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1337801.mp3,286.4,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+625,track_1337802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1337802.mp3,257.2,['party'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+626,track_1337803,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1337803.mp3,271.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+627,track_1337900,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1337900.mp3,247.0,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+628,track_1337901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1337901.mp3,187.0,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+629,track_1337902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1337902.mp3,358.7,['powerful'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+630,track_1337903,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1337903.mp3,353.1,"['energetic', 'inspiring']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+631,track_1338302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1338302.mp3,62.2,"['energetic', 'uplifting']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+632,track_1339601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1339601.mp3,192.5,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+633,track_1339700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1339700.mp3,262.9,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+634,track_1341304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1341304.mp3,170.0,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+635,track_1341601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1341601.mp3,60.9,"['energetic', 'party', 'upbeat', 'uplifting']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+636,track_1342002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1342002.mp3,217.1,['deep'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+637,track_1343400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1343400.mp3,269.4,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+638,track_1343402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1343402.mp3,227.7,['party'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+639,track_1343403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1343403.mp3,371.5,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+640,track_1346204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1346204.mp3,159.8,"['inspiring', 'positive', 'relaxing', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+641,track_1346500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1346500.mp3,64.1,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+642,track_1346501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1346501.mp3,34.0,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,track_1347802,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1347802.mp3,122.6,['calm'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+644,track_1347804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1347804.mp3,202.8,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+645,track_1348602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1348602.mp3,320.1,"['ambiental', 'dark']",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+646,track_1349103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1349103.mp3,58.9,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+647,track_1349402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1349402.mp3,75.0,"['christmas', 'fun']",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+648,track_1349403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1349403.mp3,148.4,"['christmas', 'fun']",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+649,track_1352504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1352504.mp3,216.4,"['motivational', 'sport']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+650,track_1352901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1352901.mp3,130.0,"['christmas', 'fun']",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+651,track_1352903,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1352903.mp3,61.3,"['christmas', 'fun']",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+652,track_1353001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1353001.mp3,313.6,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+653,track_1353300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1353300.mp3,152.4,"['deep', 'happy', 'summer']",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+654,track_1353301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1353301.mp3,162.0,"['deep', 'happy', 'summer']",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+655,track_1353302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1353302.mp3,143.4,"['deep', 'happy', 'summer']",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+656,track_1353303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1353303.mp3,169.0,"['deep', 'summer']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+657,track_1353304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1353304.mp3,164.7,"['deep', 'summer']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+658,track_1354100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1354100.mp3,163.6,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+659,track_1354101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1354101.mp3,114.6,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+660,track_1354102,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1354102.mp3,142.6,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+661,track_1354103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1354103.mp3,155.5,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,track_1354104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1354104.mp3,215.8,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+663,track_1354704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1354704.mp3,138.5,"['inspiring', 'motivational', 'upbeat', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+664,track_1356502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1356502.mp3,213.7,"['emotional', 'inspiring', 'love']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+665,track_1357000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1357000.mp3,173.2,"['happy', 'upbeat']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+666,track_1357400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1357400.mp3,136.0,"['emotional', 'romantic']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+667,track_1357401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1357401.mp3,69.9,"['emotional', 'romantic']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+668,track_1357402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1357402.mp3,126.9,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+669,track_1357404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1357404.mp3,149.3,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+670,track_1357701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1357701.mp3,220.0,['cool'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+671,track_1361402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1361402.mp3,89.0,"['holiday', 'mellow', 'upbeat']",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+672,track_1361404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1361404.mp3,66.0,['melancholic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+673,track_1363602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1363602.mp3,172.5,['motivational'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+674,track_1363603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1363603.mp3,114.9,['motivational'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+675,track_1363604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1363604.mp3,165.3,['motivational'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+676,track_1366001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1366001.mp3,143.2,"['dark', 'sad']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+677,track_1366002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1366002.mp3,64.6,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+678,track_1366003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1366003.mp3,42.6,"['dark', 'sad']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+679,track_1366203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1366203.mp3,160.8,"['love', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+680,track_1366604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1366604.mp3,440.1,['uplifting'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+681,track_1366700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1366700.mp3,259.4,"['melodic', 'soft']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+682,track_1366702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1366702.mp3,258.9,"['dark', 'slow']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+683,track_1366703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1366703.mp3,368.6,"['dark', 'slow']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+684,track_1366704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1366704.mp3,289.8,"['dark', 'slow']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+685,track_1371001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1371001.mp3,193.5,"['inspiring', 'motivational']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+686,track_1371002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1371002.mp3,239.1,"['inspiring', 'motivational']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+687,track_1371701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1371701.mp3,304.7,['ambiental'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+688,track_1371800,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1371800.mp3,166.5,"['cool', 'groovy']",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+689,track_1371801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1371801.mp3,88.6,['party'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+690,track_1371804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1371804.mp3,66.8,"['dream', 'hopeful']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+691,track_1372200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1372200.mp3,226.0,['upbeat'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+692,track_1374300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1374300.mp3,199.1,['calm'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+693,track_1374301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1374301.mp3,298.0,['melancholic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+694,track_1374303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1374303.mp3,187.0,['melancholic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+695,track_1374304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1374304.mp3,106.9,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+696,track_1375202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1375202.mp3,151.8,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+697,track_1375203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1375203.mp3,179.3,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+698,track_1375204,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1375204.mp3,107.9,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+699,track_1375901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1375901.mp3,174.1,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+700,track_1375902,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1375902.mp3,264.0,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+701,track_1375903,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1375903.mp3,585.0,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+702,track_1377202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1377202.mp3,210.3,['upbeat'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+703,track_1378002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1378002.mp3,209.3,"['melodic', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+704,track_1378003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1378003.mp3,219.5,['romantic'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+705,track_1378004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1378004.mp3,320.0,"['calm', 'melodic']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+706,track_1378101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1378101.mp3,240.8,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+707,track_1380002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1380002.mp3,383.8,"['meditative', 'relaxing']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+708,track_1380601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1380601.mp3,165.0,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+709,track_1381000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1381000.mp3,217.9,['cool'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+710,track_1381001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1381001.mp3,353.3,['cool'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+711,track_1381003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1381003.mp3,274.1,['cool'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+712,track_1383803,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1383803.mp3,180.0,"['motivational', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+713,track_1384401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1384401.mp3,139.1,['uplifting'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+714,track_1384403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1384403.mp3,87.3,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+715,track_1384404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1384404.mp3,119.1,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+716,track_1385202,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1385202.mp3,319.1,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+717,track_1385300,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1385300.mp3,175.2,['sad'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+718,track_1386702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1386702.mp3,31.5,['energetic'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+719,track_1387904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1387904.mp3,230.7,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+720,track_1388000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1388000.mp3,239.0,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+721,track_1388001,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1388001.mp3,242.5,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+722,track_1388002,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1388002.mp3,323.0,['happy'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+723,track_1388003,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1388003.mp3,240.1,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+724,track_1388004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1388004.mp3,242.8,['emotional'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+725,track_1388303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1388303.mp3,198.9,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+726,track_1388600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1388600.mp3,405.7,"['dark', 'slow']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+727,track_1388601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1388601.mp3,297.0,"['dark', 'slow']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+728,track_1388603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1388603.mp3,248.6,"['dark', 'slow']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+729,track_1389203,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1389203.mp3,150.0,"['melancholic', 'sad']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+730,track_1390503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1390503.mp3,161.0,"['meditative', 'slow']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+731,track_1391301,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1391301.mp3,210.1,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+732,track_1391302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1391302.mp3,300.1,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+733,track_1392703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1392703.mp3,210.1,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+734,track_1393000,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1393000.mp3,300.1,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+735,track_1393100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1393100.mp3,240.1,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+736,track_1393104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1393104.mp3,270.1,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+737,track_1393400,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1393400.mp3,210.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+738,track_1393401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1393401.mp3,210.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+739,track_1393402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1393402.mp3,270.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+740,track_1393403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1393403.mp3,270.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+741,track_1393404,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1393404.mp3,210.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+742,track_1394303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1394303.mp3,276.0,"['christmas', 'holiday']",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+743,track_1394402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1394402.mp3,90.0,['christmas'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+744,track_1394403,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1394403.mp3,147.0,"['christmas', 'happy', 'motivational']",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+745,track_1394904,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1394904.mp3,299.7,['fun'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+746,track_1395500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1395500.mp3,347.6,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+747,track_1395501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1395501.mp3,347.6,"['emotional', 'melancholic']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+748,track_1395702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1395702.mp3,79.2,['christmas'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+749,track_1396101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1396101.mp3,80.2,"['happy', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+750,track_1396500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1396500.mp3,210.3,"['calm', 'emotional', 'melancholic']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+751,track_1396501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1396501.mp3,160.8,"['happy', 'hopeful', 'inspiring', 'motivational']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+752,track_1396502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1396502.mp3,141.9,"['emotional', 'sad']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+753,track_1396603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1396603.mp3,213.8,['upbeat'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+754,track_1397103,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1397103.mp3,37.0,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+755,track_1397104,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1397104.mp3,54.0,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+756,track_1398100,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1398100.mp3,226.5,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+757,track_1398101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1398101.mp3,171.0,['upbeat'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+758,track_1398500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1398500.mp3,166.7,"['christmas', 'holiday']",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+759,track_1398501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1398501.mp3,83.3,"['christmas', 'holiday']",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+760,track_1398502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1398502.mp3,74.6,"['christmas', 'holiday']",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+761,track_1398801,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1398801.mp3,274.1,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+762,track_1398804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1398804.mp3,362.0,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+763,track_1400402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1400402.mp3,138.7,['love'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+764,track_1400500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1400500.mp3,133.4,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+765,track_1400501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1400501.mp3,159.3,"['energetic', 'relaxing']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+766,track_1400502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1400502.mp3,82.1,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+767,track_1400503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1400503.mp3,149.4,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+768,track_1402101,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1402101.mp3,165.9,"['deep', 'inspiring']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+769,track_1403004,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1403004.mp3,270.0,['relaxing'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+770,track_1403901,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1403901.mp3,231.0,['slow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+771,track_1404701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1404701.mp3,308.1,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+772,track_1404702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1404702.mp3,292.0,"['deep', 'love', 'romantic']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+773,track_1404703,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1404703.mp3,232.0,"['deep', 'love', 'romantic']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+774,track_1405302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1405302.mp3,106.0,"['inspiring', 'motivational', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+775,track_1405303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1405303.mp3,82.1,['hopeful'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+776,track_1405304,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1405304.mp3,85.0,"['inspiring', 'positive']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+777,track_1406401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1406401.mp3,90.0,['dark'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+778,track_1406402,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1406402.mp3,36.0,['inspiring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+779,track_1408401,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1408401.mp3,198.9,['ballad'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+780,track_1412804,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1412804.mp3,287.0,['meditative'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+781,track_1415803,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1415803.mp3,104.0,['dream'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+782,track_1416200,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1416200.mp3,95.9,"['romantic', 'sad']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+783,track_1418302,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1418302.mp3,202.4,"['love', 'romantic', 'uplifting']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+784,track_1418303,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1418303.mp3,202.4,"['mellow', 'romantic']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+785,track_1420500,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1420500.mp3,192.2,"['deep', 'happy', 'summer']",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+786,track_1420501,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1420501.mp3,277.1,"['deep', 'happy', 'summer']",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+787,track_1420502,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1420502.mp3,164.0,"['deep', 'happy', 'summer']",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+788,track_1420503,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1420503.mp3,200.6,"['deep', 'happy', 'summer']",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+789,track_1420504,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1420504.mp3,137.6,"['deep', 'happy', 'summer']",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+790,track_1420600,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1420600.mp3,189.0,['deep'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+791,track_1420601,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1420601.mp3,150.8,['deep'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+792,track_1420602,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1420602.mp3,148.5,['deep'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+793,track_1420603,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//03/1420603.mp3,164.6,['deep'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+794,track_1420604,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1420604.mp3,194.0,['deep'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+795,track_1420700,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//00/1420700.mp3,182.9,"['deep', 'happy']",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+796,track_1420701,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//01/1420701.mp3,214.5,"['fun', 'happy', 'romantic']",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+797,track_1420702,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//02/1420702.mp3,181.0,"['deep', 'happy', 'romantic']",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+798,track_1420704,/home/elise/Downloads/mtg-jamendo-dataset-master/audios//04/1420704.mp3,177.0,"['fun', 'happy']",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
