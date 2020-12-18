@@ -1,6 +1,6 @@
 # Deep Learning for Music Classification Tasks
 
-This repository gathers all the work done during my two months and a half remote internship (May 2020 - July 2020). I trained CNN-based models for two classification tasks:
+This repository gathers all the work done during my two and a half months remote internship (May 2020 - July 2020). I trained CNN-based models for two classification tasks:
 1. Classification by __genre__ on [GTZAN dataset](http://marsyas.info/downloads/datasets.html)
 2. Classification by __mood__ on a subset of [MTG-Jamendo dataset](https://mtg.github.io/mtg-jamendo-dataset/) 
 
